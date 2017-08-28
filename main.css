@@ -1,0 +1,21 @@
+body{
+    background-color: #66ccff;
+}
+h1{
+    text-align:center;
+    color:#ff0000;
+    text-shadow:3px 3px 4px black;
+}
+
+p{
+    color:darkgreen;
+}
+.colorClass{
+    color:yellowgreen;
+}
+
+#superSweetBorder{
+   color:coral;
+    background-color:lightgreen;
+   border: 10px dashed red;
+}
